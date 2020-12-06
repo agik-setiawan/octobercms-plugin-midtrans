@@ -1,0 +1,7 @@
+fields:
+  merchant_id:
+    label: Merchant ID
+  server_key:
+    label: Server Key
+  client_key:
+    label: Client Key
