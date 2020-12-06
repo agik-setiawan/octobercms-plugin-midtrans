@@ -1,4 +1,4 @@
-<?php namespace JK\Midtrans\Models;
+<?php namespace Pendekar\Midtrans\Models;
 
 use Model;
 

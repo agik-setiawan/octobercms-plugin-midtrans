@@ -1,6 +1,6 @@
 <?php
 
-namespace JK\Midtrans\Classes;
+namespace Pendekar\Midtrans\Classes;
 
 // use Veritrans_Config;
 // use Veritrans_Snap;
