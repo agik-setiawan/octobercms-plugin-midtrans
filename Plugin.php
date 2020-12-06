@@ -1,4 +1,4 @@
-<?php namespace Jk\Midtrans;
+<?php namespace Pendekar\Midtrans;
 
 use Backend;
 use System\Classes\PluginBase;
@@ -19,7 +19,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'Midtrans',
             'description' => 'No description provided yet...',
-            'author'      => 'Jk',
+            'author'      => 'Pendekar',
             'icon'        => 'icon-leaf'
         ];
     }
